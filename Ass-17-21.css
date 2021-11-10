@@ -1,0 +1,23 @@
+body{
+    background: radial-gradient(circle,white 20%,rgb(73, 34, 34));
+}
+
+
+table,th,td {
+    border:2px double black;
+    padding: 40px;
+}
+
+table{
+    margin: auto;
+}
+
+
+th{
+    background: linear-gradient(to right,rgb(231, 222, 222), rgb(4, 243, 243));
+}
+
+td{
+    background: linear-gradient(to right,rgb(224, 215, 215),rgb(92, 52, 52));
+    
+}
